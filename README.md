@@ -1,2 +1,16 @@
-# python-challenge
-playing pythonchallenge.com
+# The Python Challenge
+
+playing the [pythonchallenge.com](http://www.pythonchallenge.com/)
+
+## License
+
+this work is released under [WTFPL](http://www.wtfpl.net/)
+
+```
+Copyright (C) 2022 nitekat xia <nitekat1124@gmail.com>
+
+This work is free. It comes without any warranty, to the extent
+permitted by applicable law. You can redistribute it and/or modify it
+under the terms of the Do What The Fuck You Want To Public License,
+Version 2, as published by Sam Hocevar. See the LICENSE file for more details.
+```
