@@ -18,6 +18,8 @@ Python 解謎闖關遊戲
 
 [Level 5 - peak hell](05_peak_hell.ipynb)
 
+[Level 6 - now there are pairs](06_now_there_are_pairs.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
