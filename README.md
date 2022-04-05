@@ -12,6 +12,8 @@ Python 解謎闖關遊戲
 
 [Level 2 - ocr](02_ocr.ipynb)
 
+[Level 3 - re](03_re.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
