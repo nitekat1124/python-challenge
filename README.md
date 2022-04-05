@@ -6,6 +6,10 @@ Python 解謎闖關遊戲
 
 內容有暴雷，請自行斟酌
 
+[Level 0 - warming up](00_warming_up.ipynb)
+
+[Level 1 - What about making trans?](01_what_about_making_trans.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
