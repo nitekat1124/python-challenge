@@ -14,6 +14,8 @@ Python 解謎闖關遊戲
 
 [Level 3 - re](03_re.ipynb)
 
+[Level 4 - follow the chain](04_follow_the_chain.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
