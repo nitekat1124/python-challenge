@@ -16,6 +16,8 @@ Python 解謎闖關遊戲
 
 [Level 4 - follow the chain](04_follow_the_chain.ipynb)
 
+[Level 5 - peak hell](05_peak_hell.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
