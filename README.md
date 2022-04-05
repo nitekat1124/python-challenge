@@ -10,6 +10,8 @@ Python 解謎闖關遊戲
 
 [Level 1 - What about making trans?](01_what_about_making_trans.ipynb)
 
+[Level 2 - ocr](02_ocr.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
