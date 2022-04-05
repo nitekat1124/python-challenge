@@ -2,6 +2,10 @@
 
 playing the [pythonchallenge.com](http://www.pythonchallenge.com/)
 
+Python 解謎闖關遊戲
+
+內容有暴雷，請自行斟酌
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
