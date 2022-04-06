@@ -30,6 +30,8 @@ Python 解謎闖關遊戲
 
 [Level 11 - odd even](11_odd_even.ipynb)
 
+[Level 12 - dealing evil](12_dealing_evil.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
