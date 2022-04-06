@@ -20,6 +20,8 @@ Python 解謎闖關遊戲
 
 [Level 6 - now there are pairs](06_now_there_are_pairs.ipynb)
 
+[Level 7 - smarty](07_smarty.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
