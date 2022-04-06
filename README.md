@@ -22,6 +22,8 @@ Python 解謎闖關遊戲
 
 [Level 7 - smarty](07_smarty.ipynb)
 
+[Level 8 - working hard?](08_working_hard.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
