@@ -32,6 +32,8 @@ Python 解謎闖關遊戲
 
 [Level 12 - dealing evil](12_dealing_evil.ipynb)
 
+[Level 13 - call him](13_call_him.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
