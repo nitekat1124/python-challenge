@@ -28,6 +28,8 @@ Python 解謎闖關遊戲
 
 [Level 10 - what are you looking at?](10_what_are_you_looking_at.ipynb)
 
+[Level 11 - odd even](11_odd_even.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
