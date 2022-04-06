@@ -26,6 +26,8 @@ Python 解謎闖關遊戲
 
 [Level 9 - connect the dots](09_connect_the_dots.ipynb)
 
+[Level 10 - what are you looking at?](10_what_are_you_looking_at.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
