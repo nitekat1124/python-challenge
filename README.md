@@ -24,6 +24,8 @@ Python 解謎闖關遊戲
 
 [Level 8 - working hard?](08_working_hard.ipynb)
 
+[Level 9 - connect the dots](09_connect_the_dots.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
