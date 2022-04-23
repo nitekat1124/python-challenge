@@ -36,6 +36,8 @@ Python 解謎闖關遊戲
 
 [Level 14 - walk around](14_walk_around.ipynb)
 
+[Level 15 - whom](15_whom.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
