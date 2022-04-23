@@ -34,6 +34,8 @@ Python 解謎闖關遊戲
 
 [Level 13 - call him](13_call_him.ipynb)
 
+[Level 14 - walk around](14_walk_around.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
