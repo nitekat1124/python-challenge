@@ -38,12 +38,14 @@ Python 解謎闖關遊戲
 
 [Level 15 - whom](15_whom.ipynb)
 
+[Level 16 - let me get this straight](16_let_me_get_this_straight.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
 
 ```
-Copyright (C) 2022 nitekat xia <nitekat1124@gmail.com>
+Copyright (C) 2024 nitekat xia <nitekat1124@gmail.com>
 
 This work is free. It comes without any warranty, to the extent
 permitted by applicable law. You can redistribute it and/or modify it
