@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-challenge"
+version = "0.1.0"
+description = "playing pythonchallenge.com"
+authors = ["nitekat <nitekat1124@gmail.com>"]
+license = "WTFPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyterlab = "^4.0.12"
+pillow = "^10.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

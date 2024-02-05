@@ -1,3 +1,5 @@
 .pyvenv
+.ipynb_checkpoints
+.venv
 data/
 test/
