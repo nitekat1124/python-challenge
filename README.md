@@ -40,6 +40,8 @@ Python 解謎闖關遊戲
 
 [Level 16 - let me get this straight](16_let_me_get_this_straight.ipynb)
 
+[Level 17 - eat?](17_eat.ipynb)
+
 ## License
 
 this work is released under [WTFPL](http://www.wtfpl.net/)
